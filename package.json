@@ -4,7 +4,7 @@
   "private": false,
   "description": "TypeScript + Express + Mongoose + MongoDB",
   "license": "ISC",
-  "author": "Ahmad Joya",
+  "author": "Ziv Brachia",
   "bin": {
     "typescript-express-mongoose-starter": "./bin/cli.js"
   },
